@@ -1,0 +1,55 @@
+MaxIter', 50
+lambda: 1
+
+Training Neural Network...
+Iteration    50 | Cost: 3.211536e-01
+Program paused. Press enter to continue.
+
+Visualizing Neural Network...
+
+Program paused. Press enter to continue.
+
+Training Set Accuracy: 99.040000
+==================
+
+
+MaxIter', 50
+lambda: 0.3
+
+Training Neural Network...
+Iteration    50 | Cost: 1.604113e-01
+Program paused. Press enter to continue.
+
+Visualizing Neural Network...
+
+Program paused. Press enter to continue.
+
+Training Set Accuracy: 99.600000
+===================
+
+
+MaxIter', 150
+lambda: 0.1
+
+Training Neural Network...
+Iteration   150 | Cost: 6.801803e-02
+Program paused. Press enter to continue.
+
+Visualizing Neural Network...
+
+Program paused. Press enter to continue.
+
+Training Set Accuracy: 100.000000
+===============
+MaxIter', 150
+lambda: 0.2
+
+Iteration   150 | Cost: 1.118618e-01
+Program paused. Press enter to continue.
+
+Visualizing Neural Network...
+
+Program paused. Press enter to continue.
+
+Training Set Accuracy: 99.980000
+
